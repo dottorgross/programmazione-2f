@@ -5,9 +5,9 @@ let elementoDaInserire = (
     </div>
 )
 
-function Titolo() {
+function Titolo() {  
     return (
-        <h1>Guarda che bel titolo!</h1>
+        <h1 class="mio-titolo">Guarda che bel titolo!</h1>
     )
 }
 
